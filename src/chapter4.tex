@@ -1,0 +1,12 @@
+\chapter{MapReduce and Hadoop}
+
+\section{Problems and Goals}
+\begin{itemize}
+    \item How many maps
+    \item How many reduces
+    \item Locality, replication
+    \item Combining Maps and Reduces: combiner only reduce the size of results from Maps, and the results are written in an intermediate file. 
+    \item Worker failure. When a Map worker dies, it needs to be re-executed from scratch. The reason for this is the results are stored on the Worker's local disk and are now inaccessible to Reduces. But, should a Reduce Worker fail, its results remain available in the global file system.
+    \item Master failure. The master isn't scaled up. It is just one central Master. Like your desktop. Failures are years apart. And, checkpointing things will waste tons of time. Instead, if a computation times out, the program can just restart the computation a new, perhaps after checking the status of and with the Master.
+    \item How many Map-Reduce phases is optimal? You can say it is one. But in reality, it is not possible and also not necessary.
+\end{itemize}

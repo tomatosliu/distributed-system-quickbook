@@ -1,0 +1,362 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 JUN 2016 00:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**book.tex
+(./book.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./svmono.cls
+Document Class: svmono 2006/10/31 v4.17 
+Springer Verlag global LaTeX document class for monographs
+Class Springer-SVMono Info: extra/valid Springer sub-package 
+(Springer-SVMono)           not found in option list - using "global" style.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\betweenumberspace=\dimen103
+\headlineindent=\dimen104
+\c@chapter=\count87
+\chapstarthookwidth=\dimen105
+\svitemindent=\dimen106
+\verbatimindent=\dimen107
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 633.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 635.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 636.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 637.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 638.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 639.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 640.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 641.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 642.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 643.
+\tocchpnum=\dimen108
+\tocsecnum=\dimen109
+\tocsectotal=\dimen110
+\tocsubsecnum=\dimen111
+\tocsubsectotal=\dimen112
+\tocsubsubsecnum=\dimen113
+\tocsubsubsectotal=\dimen114
+\tocparanum=\dimen115
+\tocparatotal=\dimen116
+\tocsubparanum=\dimen117
+\foot@parindent=\dimen118
+\spthmsep=\dimen119
+\c@theorem=\count88
+\c@prob=\count89
+\instindent=\dimen120
+\figgap=\dimen121
+\figcapgap=\dimen122
+\tabcapgap=\dimen123
+\c@merk=\count90
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+\c@tracingmulticols=\count92
+\mult@box=\box26
+\multicol@leftmargin=\dimen126
+\c@unbalance=\count93
+\c@collectmore=\count94
+\doublecol@number=\count95
+\multicoltolerance=\count96
+\multicolpretolerance=\count97
+\full@width=\dimen127
+\page@free=\dimen128
+\premulticols=\dimen129
+\postmulticols=\dimen130
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen131
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count98
+\c@finalcolumnbadness=\count99
+\last@try=\dimen132
+\multicolovershoot=\dimen133
+\multicolundershoot=\dimen134
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count100
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks15
+\footnotemargin=\dimen135
+\c@pp@next@reset=\count101
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+No file book.aux.
+\openout1 = `book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen136
+\scratchbox=\box52
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen137
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+
+No file book.toc.
+\tf@toc=\write3
+\openout3 = `book.toc'.
+
+[3] [4
+
+
+]
+\openout2 = `chapter1.aux'.
+
+ (./chapter1.tex
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+ [1
+
+
+
+] [2] [3])
+[4]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+Chapter 2.
+[5
+
+
+
+
+] <img/ch02-hier_proc.png, id=39, 673.51625pt x 284.06125pt>
+File: img/ch02-hier_proc.png Graphic file (type png)
+
+<use img/ch02-hier_proc.png>
+Package pdftex.def Info: img/ch02-hier_proc.png used on input line 50.
+(pdftex.def)             Requested size: 336.0pt x 141.71385pt.
+ [6 <./img/ch02-hier_proc.png>]) [7]
+\openout2 = `chapter3.aux'.
+
+
+(./chapter3.tex [8
+
+
+
+
+]
+Chapter 3.
+[9] <img/ch03-log_ackack.png, id=56, 616.3025pt x 242.9075pt>
+File: img/ch03-log_ackack.png Graphic file (type png)
+
+<use img/ch03-log_ackack.png>
+Package pdftex.def Info: img/ch03-log_ackack.png used on input line 33.
+(pdftex.def)             Requested size: 336.0pt x 132.43199pt.
+ [10 <./img/ch03-log_ackack.png>]
+<img/ch03-idg.png, id=61, 719.68875pt x 358.33875pt>
+File: img/ch03-idg.png Graphic file (type png)
+ <use img/ch03-idg.png>
+Package pdftex.def Info: img/ch03-idg.png used on input line 62.
+(pdftex.def)             Requested size: 336.0pt x 167.3038pt.
+
+[11] <img/ch03-log_gdv.png, id=65, 712.6625pt x 601.24625pt>
+File: img/ch03-log_gdv.png Graphic file (type png)
+
+<use img/ch03-log_gdv.png>
+Package pdftex.def Info: img/ch03-log_gdv.png used on input line 94.
+(pdftex.def)             Requested size: 336.0pt x 283.46649pt.
+) [12 <./img/ch03-idg.png>] [13 <./img/ch03-log_gdv.png>]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex [14
+
+
+
+
+]
+Chapter 4.
+) [15] (./book.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2148 strings out of 493089
+ 29887 string characters out of 6134842
+ 97395 words of memory out of 5000000
+ 5606 multiletter control sequences out of 15000+600000
+ 6709 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,6n,23p,664b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on book.pdf (19 pages, 426490 bytes).
+PDF statistics:
+ 111 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
