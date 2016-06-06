@@ -26,7 +26,14 @@
                        % please use the style svind.ist with
                        % your makeindex program
 
-
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=red,
+    linkcolor=red,
+    urlcolor=red
+}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
@@ -52,14 +59,18 @@
 \include{chapter3}
 
 \include{chapter4}
+
+\include{chapter5}
+
+\include{chapter6}
 % \include{chapter}
 %\appendix
 %\include{appendix}
 
 % \backmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % \include{solutions}
-% \include{references}
-% \printindex
+\include{reference}
+\printindex
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
