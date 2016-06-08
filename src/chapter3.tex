@@ -3,7 +3,7 @@
 \section{Problems and Goals}
 As for \textbf{recovery}, there are three ways
 \begin{itemize}
-    \item Replication. It is true that replication can make the system more secure, but it is expensive and also require a lot of synchronization work.
+    \item Replication. It is true that replication can make the system more fault tolerant, but it is expensive and also require a lot of synchronization work.
     \item Checkpoint. If the system make changes (progress), we can make checkpoints to store the system states. But the problem for checkpoint is that the systems need a \textbf{freeze} when backing up. However, we can try to find a consistent recovery line, which will be discussed later.
     \item Log. The classic technique is \textbf{Write Ahead Logging}. Events need to be written in the log first before executed.
 \end{itemize}
@@ -48,7 +48,7 @@ When a system is reincarnated, it sends a message to the cooperating systems inf
 \textbf{How the receiver handles the incarnation numbers?}
 \begin{itemize}
     \item If the incarnation number of the message is less than the expected number, the message is a duplicate, so it should be discarded.
-    \item If the incarnation number is in the message is greater than the expected number, the sender is recovering, so block accepting messages, until it informs us about its new incarnation number.
+    \item If the incarnation number is in the message is greater than the expected number, the sender is recovering, so block accepting messages, until it informs us about its new incarnation number. (Maybe because the sender gets the recovery incarnation number first from the sender.)
     \item If they are the same, accept the message.
 \end{itemize}
 
@@ -69,7 +69,7 @@ The graph is constructed by creating a node for each interval, and then connecti
 \textbf{How to find the recovery line?} If there are some lost intervals, the other servers rollback to a interval that is independent of the lost intervals. And this rollback continues until there is a recovery line established.
 
 \subsubsection{Coordniated Checkpoints}
-We can decrease the rollbacks happened in the whole system, by coordinating checkpoints. Actually we only discussed how to use IDG, but not how to implicitly form a IDG. Here is the discussion.
+We can decrease the rollbacks happened in the whole system, by coordinating checkpoints. Actually we only discussed how to use IDG, but not how to implicitly build a IDG. Here is the discussion.
 
 There are two methods:
 \begin{itemize}

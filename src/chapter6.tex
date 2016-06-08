@@ -59,7 +59,7 @@ The authentication will be against the holder of a key, so that the message shou
 
 \section{Key Distribution and Management}
 \subsubsection{Why use a central key server?}
-Each pair of hosts have a pair of keys -> $n^2$ keys
+Each pair of hosts have a pair of keys $-> n^2$ keys
 
 \subsection{Key Distribution Center (KDC) - Kerberos}
 \subsubsection{What is the setting?}
@@ -96,7 +96,7 @@ When the client needs to communicate with another node ("principal" in Kerberos 
 
 How the procedure works:
 \begin{enumerate}
-    \item Client asks AS for authentication: AS issues a TGT to the client.
-    \item Client uses the TGT to ask TGS for a service ticket.
-    \item Client uses the service ticket to request service servers.
+    \item Client asks AS for authentication: AS issues a TGT and session key to the client. TGT cannot be read by client, it is for TGS. Session key is used for later encryption. 
+    \item Client uses the TGT to ask TGS for a service ticket. At the same time, use session key to communicate with TGS. The service ticket also cannot be read by client.
+    \item Client uses the service ticket to request service servers. At the same time, use session key to communicate with service server.
 \end{enumerate}
