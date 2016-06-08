@@ -9,6 +9,7 @@ Self-made quick book to memerize some ideas of distributed systems.
 4. MapReduce and Hadoop
 5. Anonymous Communication
 6. Security
+7. Limits and Troubles
 
 ## References
 [Gregory Kesden's lectures at UCSD.](http://cseweb.ucsd.edu/classes/sp16/cse291-e/index/staff_index.html)
